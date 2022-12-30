@@ -1,8 +1,9 @@
 # About me
 
-# Website Design
+# Website Logo
 ![own website](https://user-images.githubusercontent.com/116372430/210099673-5cb59cfe-8e03-437b-95d0-85d1f0b57c38.jpg)
 
+# Website Design
 ![work _page-0001](https://user-images.githubusercontent.com/116372430/210099684-e83b14dc-a30d-4ed4-bcec-bf00162119ca.jpg)
 
 ![work _page-0002](https://user-images.githubusercontent.com/116372430/210099697-b82cd188-41a1-4fb9-9009-b1086318ee6b.jpg)
