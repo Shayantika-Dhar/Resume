@@ -104,8 +104,8 @@ a {
   min-width: 50px;
   height: auto;
   min-height: 50px;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
@@ -313,7 +313,7 @@ ul.buttons li {
 ul.buttons li a {
   display: inline-block;
   padding: 10px 0;
-  color: #fff;
+  color: #c2b4b4;
 }
 ul.buttons li:last-child {
   margin-right: 0;
@@ -377,7 +377,7 @@ ul.buttons li:nth-child(3) {
 }
 ul.buttons li:nth-child(3):hover {
   background: #17b3fe;
-  border-bottom: solid 3px #0187c8;
+  border-bottom: solid 3px #020202;
   -moz-transition: all 200ms ease-in-out;
   -o-transition: all 200ms ease-in-out;
   -webkit-transition: all 200ms ease-in-out;
@@ -509,7 +509,7 @@ ul.buttons li:nth-child(5):hover {
 }
 .contracts .contract p.desc {
   font-size: 14px;
-  color: #4d4d00;
+  color: #42420c;
   word-wrap: break-word;
 }
 .contracts .contract p.desc a:hover {
